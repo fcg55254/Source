@@ -21,6 +21,7 @@
 - <https://gitee.com/alanskycn/yuedu>
 - <https://gitee.com/haobai1/bookyuan>
 - <https://gitee.com/xiuluodhm/QQ35073784>
+- <https://github.com/CNAD666/MyData/blob/master/novel/bookshelf/N%E4%B8%AA%E4%B9%A6%E6%BA%90(%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0).txt>
 
 视频源、规则：
 
